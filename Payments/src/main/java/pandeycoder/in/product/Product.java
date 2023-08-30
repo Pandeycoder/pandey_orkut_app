@@ -8,6 +8,7 @@ String x="pandeycoder......";
 =======
 int x=10;
 int y=30;
+String s1="coder...";
 
 >>>>>>> af40ed97055a9a216f6117d8ee64102d664549da
 	}
