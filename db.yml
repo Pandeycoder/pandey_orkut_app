@@ -2,7 +2,6 @@
   <param>
  <user-name>pandeycoder</user-name>
  <password>pandeycoder</password>
-<driver>oracle.jdbc.driver.OreacleDriver</driver>
 
   </param>
 
