@@ -5,6 +5,7 @@ public class Product {
 		System.out.println("hello.......");
 int x=10;
 int y=30;
+String s1="coder...";
 
 	}
 
