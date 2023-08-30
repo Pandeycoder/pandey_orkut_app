@@ -1,0 +1,9 @@
+Payments/target/Payments-0.0.1-SNAPSHOT.jar Payments/target/maven-archiver/pom.properties
+Payments/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Payments/target/maven-status/maven-compiler-plugin/testCompile/default testCompile/inputFiles.lst
+Products/target/Products-0.0.1-SNAPSHOT.jar
+Products/target/maven-archiver/pom.properties
+Products/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Products/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+db.yml
+
