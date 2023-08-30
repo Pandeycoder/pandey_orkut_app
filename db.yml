@@ -1,6 +1,7 @@
 <web-app>
   <param>
- 
+ <user-name>pandeycoder</user-name>
+ <password>pandeycoder</password>
 
   </param>
 
